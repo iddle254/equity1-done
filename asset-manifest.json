@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/equity1-done/static/css/main.356b08a3.css",
+    "main.js": "/equity1-done/static/js/main.94a7da3c.js",
+    "static/js/787.1287c401.chunk.js": "/equity1-done/static/js/787.1287c401.chunk.js",
+    "static/media/content-4.jpg": "/equity1-done/static/media/content-4.e810cccf858dcb39ddd0.jpg",
+    "static/media/DINPro-Bold.svg": "/equity1-done/static/media/DINPro-Bold.c95dc970d8f3619d2bd4.svg",
+    "static/media/DINPro-Medium.svg": "/equity1-done/static/media/DINPro-Medium.fe838e6f094e9b57f4f6.svg",
+    "static/media/DINPro-Regular.svg": "/equity1-done/static/media/DINPro-Regular.568b4aed113d0c259b86.svg",
+    "static/media/bg-3.jpg": "/equity1-done/static/media/bg-3.77ef34ad37e18dd10a53.jpg",
+    "static/media/image-5.jpg": "/equity1-done/static/media/image-5.df9eb8a5151f919467a0.jpg",
+    "static/media/img-1.jpg": "/equity1-done/static/media/img-1.a0c6108d3e68d9daf6c0.jpg",
+    "static/media/DINPro-Regular.eot": "/equity1-done/static/media/DINPro-Regular.abe3c4bd48f8e02f872a.eot",
+    "static/media/DINPro-Medium.eot": "/equity1-done/static/media/DINPro-Medium.09ec7799a359815c30e6.eot",
+    "static/media/img-7.jpg": "/equity1-done/static/media/img-7.40f6ec1f99d79f2bdd9d.jpg",
+    "static/media/DINPro-Light.ttf": "/equity1-done/static/media/DINPro-Light.a6f32c9987a7c6f66b35.ttf",
+    "static/media/icomoon.svg?1f812a": "/equity1-done/static/media/icomoon.e416cd1682ee15c39067.svg",
+    "static/media/DIN-Black.eot": "/equity1-done/static/media/DIN-Black.720a36b294fc3c7cc005.eot",
+    "static/media/DINPro-Medium.woff": "/equity1-done/static/media/DINPro-Medium.f347e353d03f4e9b829c.woff",
+    "static/media/DINPro-Light.woff": "/equity1-done/static/media/DINPro-Light.97419f7a871ee0105aea.woff",
+    "static/media/DINPro-Bold.woff": "/equity1-done/static/media/DINPro-Bold.00654a1cd1f77daaa2e9.woff",
+    "static/media/DINPro-Regular.woff": "/equity1-done/static/media/DINPro-Regular.d256a34767e6d6a80ef6.woff",
+    "static/media/img-6.png": "/equity1-done/static/media/img-6.a2885cad6e5eac5ff503.png",
+    "static/media/DINPro-Light.woff2": "/equity1-done/static/media/DINPro-Light.2d09e4fe4809ecad1d26.woff2",
+    "static/media/icomoon.eot?1f812a": "/equity1-done/static/media/icomoon.4c014e919f4aabf6a8e9.eot",
+    "static/media/icomoon.woff?1f812a": "/equity1-done/static/media/icomoon.4abc438140333deaa34e.woff",
+    "static/media/icomoon.ttf?1f812a": "/equity1-done/static/media/icomoon.f665061d39d967aaea93.ttf",
+    "static/media/kenya.svg": "/equity1-done/static/media/kenya.1ac776abfe0d5ac6659145e11ea507c5.svg",
+    "index.html": "/equity1-done/index.html",
+    "main.356b08a3.css.map": "/equity1-done/static/css/main.356b08a3.css.map",
+    "main.94a7da3c.js.map": "/equity1-done/static/js/main.94a7da3c.js.map",
+    "787.1287c401.chunk.js.map": "/equity1-done/static/js/787.1287c401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.356b08a3.css",
+    "static/js/main.94a7da3c.js"
+  ]
+}
